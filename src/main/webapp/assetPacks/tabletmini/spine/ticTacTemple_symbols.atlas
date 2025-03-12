@@ -1,0 +1,1131 @@
+
+ticTacTemple_symbols.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightFlaresSingle
+  rotate: false
+  xy: 2, 2
+  size: 292, 288
+  orig: 297, 288
+  offset: 5, 0
+  index: -1
+
+ticTacTemple_symbols2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animatedFrames/B01/B01_shatter_05
+  rotate: true
+  xy: 1708, 277
+  size: 200, 224
+  orig: 200, 421
+  offset: 0, 189
+  index: -1
+animatedFrames/B01/B01_shatter_06
+  rotate: true
+  xy: 1469, 277
+  size: 200, 237
+  orig: 200, 421
+  offset: 0, 167
+  index: -1
+animatedFrames/B01/B01_shatter_07
+  rotate: false
+  xy: 604, 220
+  size: 200, 257
+  orig: 200, 421
+  offset: 0, 149
+  index: -1
+animatedFrames/B01/B01_shatter_08
+  rotate: false
+  xy: 806, 221
+  size: 200, 256
+  orig: 200, 421
+  offset: 0, 130
+  index: -1
+animatedFrames/B01/B01_shatter_09
+  rotate: false
+  xy: 1008, 229
+  size: 200, 248
+  orig: 200, 421
+  offset: 0, 109
+  index: -1
+animatedFrames/B01/B01_shatter_10
+  rotate: false
+  xy: 402, 218
+  size: 200, 259
+  orig: 200, 421
+  offset: 0, 93
+  index: -1
+animatedFrames/B01/B01_shatter_11
+  rotate: false
+  xy: 200, 184
+  size: 200, 293
+  orig: 200, 421
+  offset: 0, 56
+  index: -1
+animatedFrames/B01/B01_shatter_12
+  rotate: false
+  xy: 2, 150
+  size: 196, 327
+  orig: 200, 421
+  offset: 4, 17
+  index: -1
+animatedFrames/B01/B01_shatter_13
+  rotate: true
+  xy: 1210, 294
+  size: 183, 257
+  orig: 200, 421
+  offset: 17, 0
+  index: -1
+animatedFrames/B01/B01_shatter_14
+  rotate: true
+  xy: 1210, 108
+  size: 184, 224
+  orig: 200, 421
+  offset: 16, 0
+  index: -1
+animatedFrames/B01/B01_shatter_15
+  rotate: true
+  xy: 1436, 91
+  size: 184, 187
+  orig: 200, 421
+  offset: 16, 0
+  index: -1
+animatedFrames/B01/B01_shatter_16
+  rotate: false
+  xy: 2, 2
+  size: 185, 146
+  orig: 200, 421
+  offset: 15, 0
+  index: -1
+animatedFrames/B01/B01_shatter_17
+  rotate: true
+  xy: 1934, 309
+  size: 168, 103
+  orig: 200, 421
+  offset: 16, 0
+  index: -1
+
+ticTacTemple_symbols3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animatedFrames/S01/S01_shatter_05
+  rotate: false
+  xy: 1412, 286
+  size: 200, 224
+  orig: 200, 421
+  offset: 0, 189
+  index: -1
+animatedFrames/S01/S01_shatter_06
+  rotate: false
+  xy: 1210, 270
+  size: 200, 240
+  orig: 200, 421
+  offset: 0, 167
+  index: -1
+animatedFrames/S01/S01_shatter_07
+  rotate: false
+  xy: 402, 251
+  size: 200, 259
+  orig: 200, 421
+  offset: 0, 149
+  index: -1
+animatedFrames/S01/S01_shatter_08
+  rotate: false
+  xy: 806, 254
+  size: 200, 256
+  orig: 200, 421
+  offset: 0, 130
+  index: -1
+animatedFrames/S01/S01_shatter_09
+  rotate: false
+  xy: 1008, 267
+  size: 200, 243
+  orig: 200, 421
+  offset: 0, 109
+  index: -1
+animatedFrames/S01/S01_shatter_10
+  rotate: false
+  xy: 604, 251
+  size: 200, 259
+  orig: 200, 421
+  offset: 0, 93
+  index: -1
+animatedFrames/S01/S01_shatter_11
+  rotate: false
+  xy: 200, 217
+  size: 200, 293
+  orig: 200, 421
+  offset: 0, 56
+  index: -1
+animatedFrames/S01/S01_shatter_12
+  rotate: false
+  xy: 2, 183
+  size: 196, 327
+  orig: 200, 421
+  offset: 4, 17
+  index: -1
+animatedFrames/S01/S01_shatter_13
+  rotate: true
+  xy: 2, 2
+  size: 179, 194
+  orig: 200, 421
+  offset: 21, 0
+  index: -1
+animatedFrames/S01/S01_shatter_14
+  rotate: false
+  xy: 1614, 352
+  size: 181, 158
+  orig: 200, 421
+  offset: 19, 0
+  index: -1
+animatedFrames/S01/S01_shatter_15
+  rotate: false
+  xy: 1797, 390
+  size: 182, 120
+  orig: 200, 421
+  offset: 18, 0
+  index: -1
+animatedFrames/S01/S01_shatter_16
+  rotate: false
+  xy: 1614, 270
+  size: 184, 80
+  orig: 200, 421
+  offset: 16, 0
+  index: -1
+animatedFrames/S01/S01_shatter_17
+  rotate: false
+  xy: 1797, 352
+  size: 173, 36
+  orig: 200, 421
+  offset: 15, 0
+  index: -1
+
+ticTacTemple_symbols4.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animatedFrames/S02/S02_shatter_05
+  rotate: false
+  xy: 1397, 269
+  size: 200, 233
+  orig: 200, 421
+  offset: 0, 188
+  index: -1
+animatedFrames/S02/S02_shatter_06
+  rotate: false
+  xy: 1195, 248
+  size: 200, 254
+  orig: 200, 421
+  offset: 0, 167
+  index: -1
+animatedFrames/S02/S02_shatter_07
+  rotate: false
+  xy: 993, 230
+  size: 200, 272
+  orig: 200, 421
+  offset: 0, 149
+  index: -1
+animatedFrames/S02/S02_shatter_08
+  rotate: false
+  xy: 791, 211
+  size: 200, 291
+  orig: 200, 421
+  offset: 0, 129
+  index: -1
+animatedFrames/S02/S02_shatter_09
+  rotate: false
+  xy: 589, 194
+  size: 200, 308
+  orig: 200, 421
+  offset: 0, 111
+  index: -1
+animatedFrames/S02/S02_shatter_10
+  rotate: false
+  xy: 387, 191
+  size: 200, 311
+  orig: 200, 421
+  offset: 0, 105
+  index: -1
+animatedFrames/S02/S02_shatter_11
+  rotate: false
+  xy: 187, 179
+  size: 198, 323
+  orig: 200, 421
+  offset: 2, 86
+  index: -1
+animatedFrames/S02/S02_shatter_12
+  rotate: false
+  xy: 2, 159
+  size: 183, 343
+  orig: 200, 421
+  offset: 7, 42
+  index: -1
+animatedFrames/S02/S02_shatter_13
+  rotate: false
+  xy: 1599, 297
+  size: 169, 205
+  orig: 200, 421
+  offset: 22, 0
+  index: -1
+animatedFrames/S02/S02_shatter_14
+  rotate: false
+  xy: 1770, 332
+  size: 173, 170
+  orig: 200, 421
+  offset: 21, 0
+  index: -1
+animatedFrames/S02/S02_shatter_15
+  rotate: false
+  xy: 1770, 197
+  size: 179, 133
+  orig: 200, 421
+  offset: 19, 0
+  index: -1
+animatedFrames/S02/S02_shatter_16
+  rotate: false
+  xy: 2, 2
+  size: 182, 155
+  orig: 200, 421
+  offset: 18, 0
+  index: -1
+animatedFrames/S02/S02_shatter_17
+  rotate: true
+  xy: 1945, 334
+  size: 168, 96
+  orig: 200, 421
+  offset: 32, 0
+  index: -1
+
+ticTacTemple_symbols5.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animatedFrames/S03/S03_shatter_05
+  rotate: true
+  xy: 1663, 279
+  size: 200, 235
+  orig: 200, 421
+  offset: 0, 186
+  index: -1
+animatedFrames/S03/S03_shatter_06
+  rotate: true
+  xy: 1405, 279
+  size: 200, 256
+  orig: 200, 421
+  offset: 0, 165
+  index: -1
+animatedFrames/S03/S03_shatter_07
+  rotate: true
+  xy: 1128, 279
+  size: 200, 275
+  orig: 200, 421
+  offset: 0, 146
+  index: -1
+animatedFrames/S03/S03_shatter_08
+  rotate: false
+  xy: 605, 184
+  size: 200, 295
+  orig: 200, 421
+  offset: 0, 126
+  index: -1
+animatedFrames/S03/S03_shatter_09
+  rotate: false
+  xy: 204, 166
+  size: 200, 313
+  orig: 200, 421
+  offset: 0, 108
+  index: -1
+animatedFrames/S03/S03_shatter_10
+  rotate: false
+  xy: 2, 162
+  size: 200, 317
+  orig: 200, 421
+  offset: 0, 102
+  index: -1
+animatedFrames/S03/S03_shatter_11
+  rotate: false
+  xy: 406, 167
+  size: 197, 312
+  orig: 200, 421
+  offset: 3, 97
+  index: -1
+animatedFrames/S03/S03_shatter_12
+  rotate: true
+  xy: 807, 305
+  size: 174, 319
+  orig: 200, 421
+  offset: 11, 62
+  index: -1
+animatedFrames/S03/S03_shatter_13
+  rotate: true
+  xy: 2, 2
+  size: 158, 199
+  orig: 200, 421
+  offset: 21, 16
+  index: -1
+animatedFrames/S03/S03_shatter_14
+  rotate: true
+  xy: 807, 140
+  size: 163, 180
+  orig: 200, 421
+  offset: 20, 0
+  index: -1
+animatedFrames/S03/S03_shatter_15
+  rotate: true
+  xy: 1900, 311
+  size: 168, 142
+  orig: 200, 421
+  offset: 18, 0
+  index: -1
+animatedFrames/S03/S03_shatter_16
+  rotate: true
+  xy: 989, 129
+  size: 174, 101
+  orig: 200, 421
+  offset: 16, 0
+  index: -1
+animatedFrames/S03/S03_shatter_17
+  rotate: false
+  xy: 1092, 219
+  size: 172, 58
+  orig: 200, 421
+  offset: 21, 0
+  index: -1
+
+ticTacTemple_symbols6.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animatedFrames/S04/S04_shatter_05
+  rotate: true
+  xy: 675, 46
+  size: 200, 230
+  orig: 200, 421
+  offset: 0, 191
+  index: -1
+animatedFrames/S04/S04_shatter_06
+  rotate: true
+  xy: 1599, 248
+  size: 200, 251
+  orig: 200, 421
+  offset: 0, 170
+  index: -1
+animatedFrames/S04/S04_shatter_07
+  rotate: true
+  xy: 1327, 248
+  size: 200, 270
+  orig: 200, 421
+  offset: 0, 151
+  index: -1
+animatedFrames/S04/S04_shatter_08
+  rotate: true
+  xy: 1035, 248
+  size: 200, 290
+  orig: 200, 421
+  offset: 0, 131
+  index: -1
+animatedFrames/S04/S04_shatter_09
+  rotate: true
+  xy: 727, 248
+  size: 200, 306
+  orig: 200, 421
+  offset: 0, 112
+  index: -1
+animatedFrames/S04/S04_shatter_10
+  rotate: false
+  xy: 2, 138
+  size: 200, 310
+  orig: 200, 421
+  offset: 0, 105
+  index: -1
+animatedFrames/S04/S04_shatter_11
+  rotate: false
+  xy: 204, 139
+  size: 200, 309
+  orig: 200, 421
+  offset: 0, 101
+  index: -1
+animatedFrames/S04/S04_shatter_12
+  rotate: true
+  xy: 406, 259
+  size: 189, 319
+  orig: 200, 421
+  offset: 8, 74
+  index: -1
+animatedFrames/S04/S04_shatter_13
+  rotate: true
+  xy: 406, 80
+  size: 177, 267
+  orig: 200, 421
+  offset: 23, 34
+  index: -1
+animatedFrames/S04/S04_shatter_14
+  rotate: false
+  xy: 1852, 291
+  size: 178, 157
+  orig: 200, 421
+  offset: 22, 0
+  index: -1
+animatedFrames/S04/S04_shatter_15
+  rotate: false
+  xy: 2, 2
+  size: 180, 134
+  orig: 200, 421
+  offset: 20, 0
+  index: -1
+animatedFrames/S04/S04_shatter_16
+  rotate: false
+  xy: 907, 149
+  size: 182, 97
+  orig: 200, 421
+  offset: 18, 0
+  index: -1
+animatedFrames/S04/S04_shatter_17
+  rotate: false
+  xy: 1852, 255
+  size: 73, 34
+  orig: 200, 421
+  offset: 110, 0
+  index: -1
+
+ticTacTemple_symbols7.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animatedFrames/S05/S05_shatter_05
+  rotate: false
+  xy: 1406, 232
+  size: 200, 238
+  orig: 200, 421
+  offset: 0, 183
+  index: -1
+animatedFrames/S05/S05_shatter_06
+  rotate: false
+  xy: 1204, 211
+  size: 200, 259
+  orig: 200, 421
+  offset: 0, 162
+  index: -1
+animatedFrames/S05/S05_shatter_07
+  rotate: false
+  xy: 1002, 194
+  size: 200, 276
+  orig: 200, 421
+  offset: 0, 145
+  index: -1
+animatedFrames/S05/S05_shatter_08
+  rotate: false
+  xy: 800, 176
+  size: 200, 294
+  orig: 200, 421
+  offset: 0, 125
+  index: -1
+animatedFrames/S05/S05_shatter_09
+  rotate: false
+  xy: 396, 158
+  size: 200, 312
+  orig: 200, 421
+  offset: 0, 108
+  index: -1
+animatedFrames/S05/S05_shatter_10
+  rotate: false
+  xy: 598, 161
+  size: 200, 309
+  orig: 200, 421
+  offset: 0, 106
+  index: -1
+animatedFrames/S05/S05_shatter_11
+  rotate: false
+  xy: 196, 136
+  size: 198, 334
+  orig: 200, 421
+  offset: 2, 77
+  index: -1
+animatedFrames/S05/S05_shatter_12
+  rotate: false
+  xy: 2, 117
+  size: 192, 353
+  orig: 200, 421
+  offset: 8, 38
+  index: -1
+animatedFrames/S05/S05_shatter_13
+  rotate: true
+  xy: 1608, 284
+  size: 186, 252
+  orig: 200, 421
+  offset: 14, 0
+  index: -1
+animatedFrames/S05/S05_shatter_14
+  rotate: false
+  xy: 1862, 250
+  size: 178, 220
+  orig: 200, 421
+  offset: 22, 0
+  index: -1
+animatedFrames/S05/S05_shatter_15
+  rotate: false
+  xy: 1608, 104
+  size: 179, 178
+  orig: 200, 421
+  offset: 21, 0
+  index: -1
+animatedFrames/S05/S05_shatter_16
+  rotate: false
+  xy: 2, 37
+  size: 180, 78
+  orig: 200, 421
+  offset: 20, 0
+  index: -1
+animatedFrames/S05/S05_shatter_17
+  rotate: false
+  xy: 2, 2
+  size: 164, 33
+  orig: 200, 421
+  offset: 22, 0
+  index: -1
+
+ticTacTemple_symbols8.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animatedFrames/S06/S06_shatter_05
+  rotate: true
+  xy: 1608, 292
+  size: 200, 221
+  orig: 200, 421
+  offset: 0, 200
+  index: -1
+animatedFrames/S06/S06_shatter_06
+  rotate: true
+  xy: 1364, 292
+  size: 200, 242
+  orig: 200, 421
+  offset: 0, 179
+  index: -1
+animatedFrames/S06/S06_shatter_07
+  rotate: true
+  xy: 1101, 292
+  size: 200, 261
+  orig: 200, 421
+  offset: 0, 160
+  index: -1
+animatedFrames/S06/S06_shatter_08
+  rotate: false
+  xy: 604, 213
+  size: 200, 279
+  orig: 200, 421
+  offset: 0, 142
+  index: -1
+animatedFrames/S06/S06_shatter_09
+  rotate: false
+  xy: 204, 199
+  size: 200, 293
+  orig: 200, 421
+  offset: 0, 125
+  index: -1
+animatedFrames/S06/S06_shatter_10
+  rotate: false
+  xy: 2, 195
+  size: 200, 297
+  orig: 200, 421
+  offset: 0, 120
+  index: -1
+animatedFrames/S06/S06_shatter_11
+  rotate: false
+  xy: 406, 207
+  size: 196, 285
+  orig: 200, 421
+  offset: 2, 118
+  index: -1
+animatedFrames/S06/S06_shatter_12
+  rotate: true
+  xy: 806, 317
+  size: 175, 293
+  orig: 200, 421
+  offset: 15, 84
+  index: -1
+animatedFrames/S06/S06_shatter_13
+  rotate: false
+  xy: 1831, 344
+  size: 166, 148
+  orig: 200, 421
+  offset: 20, 47
+  index: -1
+animatedFrames/S06/S06_shatter_14
+  rotate: false
+  xy: 2, 40
+  size: 170, 153
+  orig: 200, 421
+  offset: 18, 6
+  index: -1
+animatedFrames/S06/S06_shatter_15
+  rotate: false
+  xy: 806, 194
+  size: 175, 121
+  orig: 200, 421
+  offset: 16, 0
+  index: -1
+animatedFrames/S06/S06_shatter_16
+  rotate: false
+  xy: 1831, 247
+  size: 180, 95
+  orig: 200, 421
+  offset: 14, 0
+  index: -1
+animatedFrames/S06/S06_shatter_17
+  rotate: false
+  xy: 2, 2
+  size: 175, 36
+  orig: 200, 421
+  offset: 21, 0
+  index: -1
+
+ticTacTemple_symbols9.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+staticSymbols/B01/B01
+  rotate: false
+  xy: 1001, 684
+  size: 307, 304
+  orig: 355, 355
+  offset: 20, 27
+  index: -1
+staticSymbols/B01/B01_shatter_01
+  rotate: false
+  xy: 504, 202
+  size: 380, 359
+  orig: 500, 1052
+  offset: 56, 693
+  index: -1
+staticSymbols/B01/B01_shatter_02
+  rotate: false
+  xy: 504, 563
+  size: 495, 425
+  orig: 500, 1052
+  offset: 0, 627
+  index: -1
+staticSymbols/B01/B01_shatter_03
+  rotate: false
+  xy: 2, 2
+  size: 500, 460
+  orig: 500, 1052
+  offset: 0, 592
+  index: -1
+staticSymbols/B01/B01_shatter_04
+  rotate: false
+  xy: 2, 464
+  size: 500, 524
+  orig: 500, 1052
+  offset: 0, 528
+  index: -1
+
+ticTacTemple_symbols10.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+staticSymbols/S01/S01
+  rotate: false
+  xy: 1777, 268
+  size: 236, 234
+  orig: 355, 355
+  offset: 64, 65
+  index: -1
+staticSymbols/S01/S01_shatter_01
+  rotate: true
+  xy: 1417, 122
+  size: 380, 358
+  orig: 500, 1052
+  offset: 56, 694
+  index: -1
+staticSymbols/S01/S01_shatter_02
+  rotate: true
+  xy: 990, 7
+  size: 495, 425
+  orig: 500, 1052
+  offset: 0, 627
+  index: -1
+staticSymbols/S01/S01_shatter_03
+  rotate: true
+  xy: 528, 2
+  size: 500, 460
+  orig: 500, 1052
+  offset: 0, 592
+  index: -1
+staticSymbols/S01/S01_shatter_04
+  rotate: true
+  xy: 2, 2
+  size: 500, 524
+  orig: 500, 1052
+  offset: 0, 528
+  index: -1
+
+ticTacTemple_symbols11.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+staticSymbols/S02/S02
+  rotate: true
+  xy: 1817, 259
+  size: 243, 225
+  orig: 355, 355
+  offset: 57, 65
+  index: -1
+staticSymbols/S02/S02_shatter_01
+  rotate: true
+  xy: 1444, 100
+  size: 402, 371
+  orig: 500, 1052
+  offset: 51, 681
+  index: -1
+staticSymbols/S02/S02_shatter_02
+  rotate: true
+  xy: 1006, 3
+  size: 499, 436
+  orig: 500, 1052
+  offset: 0, 616
+  index: -1
+staticSymbols/S02/S02_shatter_03
+  rotate: true
+  xy: 535, 2
+  size: 500, 469
+  orig: 500, 1052
+  offset: 0, 583
+  index: -1
+staticSymbols/S02/S02_shatter_04
+  rotate: true
+  xy: 2, 2
+  size: 500, 531
+  orig: 500, 1052
+  offset: 0, 521
+  index: -1
+
+ticTacTemple_symbols12.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+staticSymbols/S03/S03
+  rotate: false
+  xy: 983, 783
+  size: 281, 234
+  orig: 355, 355
+  offset: 16, 57
+  index: -1
+staticSymbols/S03/S03_shatter_01
+  rotate: false
+  xy: 504, 201
+  size: 379, 373
+  orig: 500, 1052
+  offset: 69, 679
+  index: -1
+staticSymbols/S03/S03_shatter_02
+  rotate: false
+  xy: 504, 576
+  size: 477, 441
+  orig: 500, 1052
+  offset: 16, 611
+  index: -1
+staticSymbols/S03/S03_shatter_03
+  rotate: false
+  xy: 2, 2
+  size: 500, 476
+  orig: 500, 1052
+  offset: 0, 576
+  index: -1
+staticSymbols/S03/S03_shatter_04
+  rotate: false
+  xy: 2, 480
+  size: 500, 537
+  orig: 500, 1052
+  offset: 0, 515
+  index: -1
+
+ticTacTemple_symbols13.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+staticSymbols/S04/S04
+  rotate: false
+  xy: 1797, 271
+  size: 234, 231
+  orig: 355, 355
+  offset: 58, 63
+  index: -1
+staticSymbols/S04/S04_shatter_01
+  rotate: true
+  xy: 1421, 115
+  size: 387, 374
+  orig: 500, 1052
+  offset: 63, 678
+  index: -1
+staticSymbols/S04/S04_shatter_02
+  rotate: true
+  xy: 992, 2
+  size: 500, 427
+  orig: 500, 1052
+  offset: 0, 625
+  index: -1
+staticSymbols/S04/S04_shatter_03
+  rotate: true
+  xy: 528, 2
+  size: 500, 462
+  orig: 500, 1052
+  offset: 0, 590
+  index: -1
+staticSymbols/S04/S04_shatter_04
+  rotate: true
+  xy: 2, 2
+  size: 500, 524
+  orig: 500, 1052
+  offset: 0, 528
+  index: -1
+
+ticTacTemple_symbols14.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+staticSymbols/S05/S05
+  rotate: false
+  xy: 1386, 782
+  size: 237, 229
+  orig: 355, 355
+  offset: 61, 63
+  index: -1
+staticSymbols/S05/S05_shatter_01
+  rotate: false
+  xy: 1006, 614
+  size: 378, 397
+  orig: 500, 1052
+  offset: 56, 655
+  index: -1
+staticSymbols/S05/S05_shatter_02
+  rotate: false
+  xy: 2, 2
+  size: 489, 459
+  orig: 500, 1052
+  offset: 0, 593
+  index: -1
+staticSymbols/S05/S05_shatter_03
+  rotate: false
+  xy: 504, 520
+  size: 500, 491
+  orig: 500, 1052
+  offset: 0, 561
+  index: -1
+staticSymbols/S05/S05_shatter_04
+  rotate: false
+  xy: 2, 463
+  size: 500, 548
+  orig: 500, 1052
+  offset: 0, 504
+  index: -1
+
+ticTacTemple_symbols15.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+staticSymbols/S06/S06
+  rotate: false
+  xy: 1734, 283
+  size: 235, 224
+  orig: 355, 355
+  offset: 61, 64
+  index: -1
+staticSymbols/S06/S06_shatter_01
+  rotate: true
+  xy: 1370, 97
+  size: 410, 362
+  orig: 500, 1052
+  offset: 43, 690
+  index: -1
+staticSymbols/S06/S06_shatter_02
+  rotate: true
+  xy: 951, 7
+  size: 500, 417
+  orig: 500, 1052
+  offset: 0, 635
+  index: -1
+staticSymbols/S06/S06_shatter_03
+  rotate: true
+  xy: 504, 7
+  size: 500, 445
+  orig: 500, 1052
+  offset: 0, 607
+  index: -1
+staticSymbols/S06/S06_shatter_04
+  rotate: false
+  xy: 2, 2
+  size: 500, 505
+  orig: 500, 1052
+  offset: 0, 547
+  index: -1
+
+ticTacTemple_symbols.jpg
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbolShines/S01_highlight
+  rotate: false
+  xy: 1082, 43
+  size: 137, 137
+  orig: 178, 178
+  offset: 22, 23
+  index: -1
+symbolShines/S01_shine
+  rotate: false
+  xy: 2, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+symbolShines/S02_highlight
+  rotate: false
+  xy: 1221, 48
+  size: 140, 132
+  orig: 178, 178
+  offset: 19, 23
+  index: -1
+symbolShines/S02_shine
+  rotate: false
+  xy: 182, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+symbolShines/S03_highlight
+  rotate: false
+  xy: 1363, 45
+  size: 137, 135
+  orig: 178, 178
+  offset: 21, 20
+  index: -1
+symbolShines/S03_shine
+  rotate: false
+  xy: 362, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+symbolShines/S04_highlight
+  rotate: false
+  xy: 1502, 49
+  size: 134, 131
+  orig: 178, 178
+  offset: 21, 24
+  index: -1
+symbolShines/S04_shine
+  rotate: false
+  xy: 542, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+symbolShines/S05_highlight
+  rotate: false
+  xy: 1774, 52
+  size: 133, 128
+  orig: 178, 178
+  offset: 24, 24
+  index: -1
+symbolShines/S05_shine
+  rotate: false
+  xy: 722, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+symbolShines/S06_highlight
+  rotate: false
+  xy: 1638, 52
+  size: 134, 128
+  orig: 178, 178
+  offset: 23, 24
+  index: -1
+symbolShines/S06_shine
+  rotate: false
+  xy: 902, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+
+ticTacTemple_symbols16.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winHighlight/B01_Highlight
+  rotate: false
+  xy: 347, 162
+  size: 341, 336
+  orig: 355, 355
+  offset: 3, 10
+  index: -1
+winHighlight/B01_front_highlight
+  rotate: false
+  xy: 2, 159
+  size: 343, 339
+  orig: 355, 355
+  offset: 1, 10
+  index: -1
+winHighlight/S01_win
+  rotate: false
+  xy: 690, 226
+  size: 272, 272
+  orig: 355, 355
+  offset: 45, 47
+  index: -1
+winHighlight/S02_win
+  rotate: false
+  xy: 1238, 237
+  size: 278, 261
+  orig: 355, 355
+  offset: 39, 47
+  index: -1
+winHighlight/S03_win
+  rotate: false
+  xy: 964, 229
+  size: 272, 269
+  orig: 355, 355
+  offset: 42, 40
+  index: -1
+winHighlight/S04_win
+  rotate: false
+  xy: 1518, 238
+  size: 266, 260
+  orig: 355, 355
+  offset: 43, 48
+  index: -1
+winHighlight/S05_win
+  rotate: false
+  xy: 690, 2
+  size: 232, 222
+  orig: 355, 355
+  offset: 64, 65
+  index: -1
+winHighlight/S06_win
+  rotate: true
+  xy: 1786, 233
+  size: 265, 255
+  orig: 355, 355
+  offset: 47, 48
+  index: -1

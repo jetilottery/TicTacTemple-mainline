@@ -1,0 +1,66 @@
+{"frames": {
+
+"landscape_NoWinPlaque":
+{
+	"frame": {"x":3,"y":3,"w":1034,"h":534},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":36,"w":1034,"h":534},
+	"sourceSize": {"w":1231,"h":607},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"plaque_left_landscape":
+{
+	"frame": {"x":1086,"y":3,"w":342,"h":374},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":342,"h":374},
+	"sourceSize": {"w":342,"h":374},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageWinBackground":
+{
+	"frame": {"x":541,"y":601,"w":786,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":410,"w":786,"h":407},
+	"sourceSize": {"w":810,"h":1228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_NoWinPlaque":
+{
+	"frame": {"x":3,"y":1041,"w":757,"h":921},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":757,"h":921},
+	"sourceSize": {"w":757,"h":921},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_timeOutMessageBackground":
+{
+	"frame": {"x":928,"y":1012,"w":784,"h":407},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":31,"w":784,"h":407},
+	"sourceSize": {"w":788,"h":470},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portraitPaytableBackground":
+{
+	"frame": {"x":541,"y":3,"w":541,"h":594},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":594},
+	"sourceSize": {"w":541,"h":594},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-3.png",
+	"format": "RGBA8888",
+	"size": {"w":1431,"h":1801},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3346fe8992e0ebc11c676726891b094c:37e0f9228f576d9fea6b944cbebae044:0136194d2339e82a5070d8e97ee180c7$"
+}
+}

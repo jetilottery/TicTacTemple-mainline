@@ -1,0 +1,34 @@
+{
+  "urls": [
+    "ch5.mp3",
+    "ch5.ogg",
+    "ch5.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BackgroundHighlight": [
+      1050,
+      2262.0861678004535
+    ],
+    "BlockDrop04": [
+      4100,
+      374.9886621315195
+    ],
+    "LineMatch04": [
+      5150,
+      1259.6598639455783
+    ],
+    "WinningNumberSelect2": [
+      7200,
+      2249.999999999999
+    ],
+    "YourNumberSelect3": [
+      10250,
+      1599.9999999999995
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+
+ticTacTemple_background.jpg
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTransparent/landscape/base_01
+  rotate: false
+  xy: 2, 409
+  size: 720, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1
+nonTransparent/landscape/bonus_01
+  rotate: false
+  xy: 2, 2
+  size: 720, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1
+nonTransparent/landscape/clouds
+  rotate: false
+  xy: 2, 816
+  size: 1024, 192
+  orig: 1024, 192
+  offset: 0, 0
+  index: -1
+nonTransparent/landscape/lightBurst
+  rotate: false
+  xy: 724, 773
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+nonTransparent/landscape/lightFlaresSingle
+  rotate: false
+  xy: 1028, 864
+  size: 149, 144
+  orig: 149, 144
+  offset: 0, 0
+  index: -1
+
+ticTacTemple_background2.jpg
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTransparent/portrait/BASE_01
+  rotate: true
+  xy: 2, 2
+  size: 405, 614
+  orig: 405, 614
+  offset: 0, 0
+  index: -1
+nonTransparent/portrait/BONUS_01
+  rotate: true
+  xy: 618, 2
+  size: 405, 614
+  orig: 405, 614
+  offset: 0, 0
+  index: -1
+
+ticTacTemple_background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transparent/landsacpe/base_03
+  rotate: false
+  xy: 2, 679
+  size: 1440, 507
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/base_05
+  rotate: true
+  xy: 1444, 46
+  size: 975, 512
+  orig: 1440, 810
+  offset: 239, 150
+  index: -1
+transparent/landsacpe/base_06
+  rotate: false
+  xy: 2, 2
+  size: 995, 207
+  orig: 1440, 810
+  offset: 445, 56
+  index: -1
+transparent/landsacpe/base_07
+  rotate: false
+  xy: 2, 1188
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/bonus_03
+  rotate: false
+  xy: 2, 211
+  size: 1440, 466
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/bonus_05
+  rotate: true
+  xy: 1444, 1023
+  size: 975, 514
+  orig: 1440, 810
+  offset: 239, 148
+  index: -1
+
+ticTacTemple_background2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transparent/portrait/BASE_03
+  rotate: false
+  xy: 2, 2
+  size: 810, 727
+  orig: 810, 1228
+  offset: 0, 0
+  index: -1
+transparent/portrait/BONUS_03
+  rotate: false
+  xy: 814, 17
+  size: 810, 712
+  orig: 810, 1228
+  offset: 0, 0
+  index: -1

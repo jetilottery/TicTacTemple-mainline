@@ -1,0 +1,6 @@
+{
+  "showResultScreen": true,
+  "showHowToPlayOnLoad": false,
+  "showPayTableOnLoad": true,
+  "consoleEnabledDuringPlay": true
+}

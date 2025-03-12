@@ -1,0 +1,216 @@
+
+dustBurstAnim.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dustBurst/dustBurst_000
+  rotate: false
+  xy: 2, 1554
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_001
+  rotate: false
+  xy: 2, 1360
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_002
+  rotate: false
+  xy: 512, 1554
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_003
+  rotate: false
+  xy: 2, 1166
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_004
+  rotate: false
+  xy: 512, 1360
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_005
+  rotate: false
+  xy: 1022, 1554
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_006
+  rotate: false
+  xy: 2, 972
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_007
+  rotate: false
+  xy: 512, 1166
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_008
+  rotate: false
+  xy: 1022, 1360
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_009
+  rotate: false
+  xy: 1532, 1554
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_010
+  rotate: false
+  xy: 2, 778
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_011
+  rotate: false
+  xy: 512, 972
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_012
+  rotate: false
+  xy: 1022, 1166
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_013
+  rotate: false
+  xy: 1532, 1360
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_014
+  rotate: false
+  xy: 2, 584
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_015
+  rotate: false
+  xy: 512, 778
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_016
+  rotate: false
+  xy: 1022, 972
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_017
+  rotate: false
+  xy: 1532, 1166
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_018
+  rotate: false
+  xy: 2, 390
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_019
+  rotate: false
+  xy: 512, 584
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_020
+  rotate: false
+  xy: 1022, 778
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_021
+  rotate: false
+  xy: 1532, 972
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_022
+  rotate: false
+  xy: 2, 196
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_023
+  rotate: false
+  xy: 512, 390
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_024
+  rotate: false
+  xy: 1022, 584
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_025
+  rotate: false
+  xy: 1532, 778
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_026
+  rotate: false
+  xy: 2, 2
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_027
+  rotate: false
+  xy: 512, 196
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_028
+  rotate: false
+  xy: 1022, 390
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1
+dustBurst/dustBurst_029
+  rotate: false
+  xy: 1532, 584
+  size: 508, 192
+  orig: 508, 192
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch0.mp3",
+    "ch0.ogg",
+    "ch0.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "MusicLoopDay": [
+      1050,
+      20645.147392290248
+    ],
+    "MusicLoopNight": [
+      22100,
+      9411.768707482992
+    ]
+  }
+}
